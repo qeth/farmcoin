@@ -63,7 +63,7 @@ I learned the fundamentals of writing smart contracts
  This project is inspired by one of the project of the course
  
 
-## Further Iterations
+## Future Iterations
 
 Extend the smart contract with more functionalities
 and security by implementing  more complex financial

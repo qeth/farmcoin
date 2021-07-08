@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
-    "test": "test"
+    "test": "mocha"
   },
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.4.1",
